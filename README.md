@@ -1,1 +1,4 @@
-# BrainScan-Alzheimer-s-Detection-via-CNN
+# BrainScan: Alzheimer's Detection via CNN
+BrainScan employs a convolutional neural network (CNN) to classify MRI brain images into various stages of Alzheimer's disease, including normal, mild cognitive impairment (MCI), and Alzheimer's. The CNN architecture is designed to automatically learn and extract important features from the MRI images, such as patterns and abnormalities in brain structure, that are indicative of different stages of the disease.
+
+The model was trained on a comprehensive dataset and fine-tuned over 100 epochs, achieving an impressive 94% accuracy on the testing set. By utilizing techniques like data augmentation to increase the diversity of training images and oversampling to address class imbalances, BrainScan effectively differentiates between different stages of Alzheimer's, offering a valuable tool for early diagnosis and treatment planning in healthcare.
